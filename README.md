@@ -1,1 +1,5 @@
-This branch is me updating these scripts and making them better. I am also fixing broken scripts. Again this is just for learning purposes.
+**IMPORTANT: This is just for learning purposes.**
+
+This branch of MrDawny's script sources and trying to either fix them or add new features.
+
+**IMPORTANT: This is just for learning purposes.**
